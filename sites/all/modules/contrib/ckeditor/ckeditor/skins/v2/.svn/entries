@@ -1,0 +1,91 @@
+10
+
+dir
+0
+http://net-orbelink/svn/multispa2012/sites/all/modules/contrib/ckeditor/ckeditor/skins/v2
+http://net-orbelink/svn/multispa2012
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c200e3d8-733a-7d46-9daa-f814e8da7523
+
+dialog.css
+file
+
+
+
+add
+
+editor.css
+file
+
+
+
+add
+
+icons.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+icons_rtl.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+images
+dir
+
+
+
+add
+
+skin.js
+file
+
+
+
+add
+
+templates.css
+file
+
+
+
+add
+

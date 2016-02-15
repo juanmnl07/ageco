@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/ageco/!svn/ver/1/modules/book
+END
+book-export-html.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ageco/!svn/ver/1/modules/book/book-export-html.tpl.php
+END
+book.install
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ageco/!svn/ver/1/modules/book/book.install
+END
+book-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ageco/!svn/ver/1/modules/book/book-rtl.css
+END
+book.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ageco/!svn/ver/1/modules/book/book.pages.inc
+END
+book.css
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ageco/!svn/ver/1/modules/book/book.css
+END
+book-node-export-html.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ageco/!svn/ver/1/modules/book/book-node-export-html.tpl.php
+END
+book.info
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ageco/!svn/ver/1/modules/book/book.info
+END
+book.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/modules/book/book.js
+END
+book-all-books-block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ageco/!svn/ver/1/modules/book/book-all-books-block.tpl.php
+END
+book.test
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ageco/!svn/ver/1/modules/book/book.test
+END
+book.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ageco/!svn/ver/1/modules/book/book.admin.inc
+END
+book-navigation.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ageco/!svn/ver/1/modules/book/book-navigation.tpl.php
+END
+book.module
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ageco/!svn/ver/1/modules/book/book.module
+END

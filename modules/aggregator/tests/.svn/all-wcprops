@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ageco/!svn/ver/1/modules/aggregator/tests
+END
+aggregator_test_atom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ageco/!svn/ver/1/modules/aggregator/tests/aggregator_test_atom.xml
+END
+aggregator_test_rss091.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ageco/!svn/ver/1/modules/aggregator/tests/aggregator_test_rss091.xml
+END
+aggregator_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ageco/!svn/ver/1/modules/aggregator/tests/aggregator_test.module
+END
+aggregator_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ageco/!svn/ver/1/modules/aggregator/tests/aggregator_test.info
+END

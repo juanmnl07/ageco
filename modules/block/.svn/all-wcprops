@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/ageco/!svn/ver/1/modules/block
+END
+block.install
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ageco/!svn/ver/1/modules/block/block.install
+END
+block.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ageco/!svn/ver/1/modules/block/block.css
+END
+block.info
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ageco/!svn/ver/1/modules/block/block.info
+END
+block.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ageco/!svn/ver/1/modules/block/block.js
+END
+block-admin-display-form.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ageco/!svn/ver/1/modules/block/block-admin-display-form.tpl.php
+END
+block.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ageco/!svn/ver/1/modules/block/block.api.php
+END
+block.test
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ageco/!svn/ver/1/modules/block/block.test
+END
+block.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ageco/!svn/ver/1/modules/block/block.admin.inc
+END
+block.module
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ageco/!svn/ver/1/modules/block/block.module
+END
+block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ageco/!svn/ver/1/modules/block/block.tpl.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ageco/!svn/ver/1/themes/tests/block_test_theme
+END
+page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ageco/!svn/ver/1/themes/tests/block_test_theme/page.tpl.php
+END
+block_test_theme.info
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ageco/!svn/ver/1/themes/tests/block_test_theme/block_test_theme.info
+END

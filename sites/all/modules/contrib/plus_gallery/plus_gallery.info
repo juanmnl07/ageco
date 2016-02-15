@@ -1,0 +1,13 @@
+name = Plus Gallery
+description = "Core functions for using the responsive +Gallery library."
+package = Plus Gallery
+core = 7.x
+dependencies[] = libraries
+dependencies[] = jquery_update
+
+; Information added by drupal.org packaging script on 2013-08-10
+version = "7.x-1.3"
+core = "7.x"
+project = "plus_gallery"
+datestamp = "1376178138"
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/modules/openid/tests
+END
+openid_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ageco/!svn/ver/1/modules/openid/tests/openid_test.module
+END
+openid_test.install
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ageco/!svn/ver/1/modules/openid/tests/openid_test.install
+END
+openid_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ageco/!svn/ver/1/modules/openid/tests/openid_test.info
+END

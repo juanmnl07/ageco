@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ageco/!svn/ver/1/includes/database/mysql
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ageco/!svn/ver/1/includes/database/mysql/schema.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ageco/!svn/ver/1/includes/database/mysql/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ageco/!svn/ver/1/includes/database/mysql/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ageco/!svn/ver/1/includes/database/mysql/install.inc
+END

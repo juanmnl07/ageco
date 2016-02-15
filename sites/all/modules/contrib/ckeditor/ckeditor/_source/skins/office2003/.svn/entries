@@ -1,0 +1,154 @@
+10
+
+dir
+0
+http://net-orbelink/svn/multispa2012/sites/all/modules/contrib/ckeditor/ckeditor/_source/skins/office2003
+http://net-orbelink/svn/multispa2012
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c200e3d8-733a-7d46-9daa-f814e8da7523
+
+dialog.css
+file
+
+
+
+add
+
+editor.css
+file
+
+
+
+add
+
+elementspath.css
+file
+
+
+
+add
+
+icons.css
+file
+
+
+
+add
+
+icons.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+icons_rtl.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+images
+dir
+
+
+
+add
+
+mainui.css
+file
+
+
+
+add
+
+menu.css
+file
+
+
+
+add
+
+panel.css
+file
+
+
+
+add
+
+presets.css
+file
+
+
+
+add
+
+reset.css
+file
+
+
+
+add
+
+richcombo.css
+file
+
+
+
+add
+
+skin.js
+file
+
+
+
+add
+
+templates.css
+file
+
+
+
+add
+
+toolbar.css
+file
+
+
+
+add
+

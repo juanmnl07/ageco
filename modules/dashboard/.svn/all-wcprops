@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/modules/dashboard
+END
+dashboard.info
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ageco/!svn/ver/1/modules/dashboard/dashboard.info
+END
+dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ageco/!svn/ver/1/modules/dashboard/dashboard.js
+END
+dashboard.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ageco/!svn/ver/1/modules/dashboard/dashboard.api.php
+END
+dashboard.test
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ageco/!svn/ver/1/modules/dashboard/dashboard.test
+END
+dashboard.module
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ageco/!svn/ver/1/modules/dashboard/dashboard.module
+END
+dashboard.install
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ageco/!svn/ver/1/modules/dashboard/dashboard.install
+END
+dashboard-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ageco/!svn/ver/1/modules/dashboard/dashboard-rtl.css
+END
+dashboard.css
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ageco/!svn/ver/1/modules/dashboard/dashboard.css
+END

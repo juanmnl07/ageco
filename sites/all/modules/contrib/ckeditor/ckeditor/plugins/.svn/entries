@@ -1,0 +1,287 @@
+10
+
+dir
+0
+http://net-orbelink/svn/multispa2012/sites/all/modules/contrib/ckeditor/ckeditor/plugins
+http://net-orbelink/svn/multispa2012
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c200e3d8-733a-7d46-9daa-f814e8da7523
+
+a11yhelp
+dir
+
+
+
+add
+
+about
+dir
+
+
+
+add
+
+adobeair
+dir
+
+
+
+add
+
+ajax
+dir
+
+
+
+add
+
+autogrow
+dir
+
+
+
+add
+
+bbcode
+dir
+
+
+
+add
+
+clipboard
+dir
+
+
+
+add
+
+colordialog
+dir
+
+
+
+add
+
+devtools
+dir
+
+
+
+add
+
+dialog
+dir
+
+
+
+add
+
+div
+dir
+
+
+
+add
+
+docprops
+dir
+
+
+
+add
+
+find
+dir
+
+
+
+add
+
+flash
+dir
+
+
+
+add
+
+forms
+dir
+
+
+
+add
+
+iframe
+dir
+
+
+
+add
+
+iframedialog
+dir
+
+
+
+add
+
+image
+dir
+
+
+
+add
+
+link
+dir
+
+
+
+add
+
+liststyle
+dir
+
+
+
+add
+
+pagebreak
+dir
+
+
+
+add
+
+pastefromword
+dir
+
+
+
+add
+
+pastetext
+dir
+
+
+
+add
+
+placeholder
+dir
+
+
+
+add
+
+scayt
+dir
+
+
+
+add
+
+showblocks
+dir
+
+
+
+add
+
+smiley
+dir
+
+
+
+add
+
+specialchar
+dir
+
+
+
+add
+
+styles
+dir
+
+
+
+add
+
+stylesheetparser
+dir
+
+
+
+add
+
+table
+dir
+
+
+
+add
+
+tableresize
+dir
+
+
+
+add
+
+tabletools
+dir
+
+
+
+add
+
+templates
+dir
+
+
+
+add
+
+uicolor
+dir
+
+
+
+add
+
+wsc
+dir
+
+
+
+add
+
+xml
+dir
+
+
+
+add
+

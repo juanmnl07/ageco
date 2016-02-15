@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/modules/filter/tests
+END
+filter.url-input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ageco/!svn/ver/1/modules/filter/tests/filter.url-input.txt
+END
+filter.url-output.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ageco/!svn/ver/1/modules/filter/tests/filter.url-output.txt
+END

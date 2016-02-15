@@ -1,0 +1,616 @@
+10
+
+dir
+0
+http://net-orbelink/svn/multispa2012/sites/all/modules/contrib/ckeditor/ckeditor/_source/plugins
+http://net-orbelink/svn/multispa2012
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c200e3d8-733a-7d46-9daa-f814e8da7523
+
+a11yhelp
+dir
+
+
+
+add
+
+about
+dir
+
+
+
+add
+
+adobeair
+dir
+
+
+
+add
+
+ajax
+dir
+
+
+
+add
+
+autogrow
+dir
+
+
+
+add
+
+basicstyles
+dir
+
+
+
+add
+
+bbcode
+dir
+
+
+
+add
+
+bidi
+dir
+
+
+
+add
+
+blockquote
+dir
+
+
+
+add
+
+button
+dir
+
+
+
+add
+
+clipboard
+dir
+
+
+
+add
+
+colorbutton
+dir
+
+
+
+add
+
+colordialog
+dir
+
+
+
+add
+
+contextmenu
+dir
+
+
+
+add
+
+devtools
+dir
+
+
+
+add
+
+dialog
+dir
+
+
+
+add
+
+dialogadvtab
+dir
+
+
+
+add
+
+dialogui
+dir
+
+
+
+add
+
+div
+dir
+
+
+
+add
+
+docprops
+dir
+
+
+
+add
+
+domiterator
+dir
+
+
+
+add
+
+editingblock
+dir
+
+
+
+add
+
+elementspath
+dir
+
+
+
+add
+
+enterkey
+dir
+
+
+
+add
+
+entities
+dir
+
+
+
+add
+
+fakeobjects
+dir
+
+
+
+add
+
+filebrowser
+dir
+
+
+
+add
+
+find
+dir
+
+
+
+add
+
+flash
+dir
+
+
+
+add
+
+floatpanel
+dir
+
+
+
+add
+
+font
+dir
+
+
+
+add
+
+format
+dir
+
+
+
+add
+
+forms
+dir
+
+
+
+add
+
+horizontalrule
+dir
+
+
+
+add
+
+htmldataprocessor
+dir
+
+
+
+add
+
+htmlwriter
+dir
+
+
+
+add
+
+iframe
+dir
+
+
+
+add
+
+iframedialog
+dir
+
+
+
+add
+
+image
+dir
+
+
+
+add
+
+indent
+dir
+
+
+
+add
+
+justify
+dir
+
+
+
+add
+
+keystrokes
+dir
+
+
+
+add
+
+link
+dir
+
+
+
+add
+
+list
+dir
+
+
+
+add
+
+listblock
+dir
+
+
+
+add
+
+liststyle
+dir
+
+
+
+add
+
+maximize
+dir
+
+
+
+add
+
+menu
+dir
+
+
+
+add
+
+menubutton
+dir
+
+
+
+add
+
+newpage
+dir
+
+
+
+add
+
+pagebreak
+dir
+
+
+
+add
+
+panel
+dir
+
+
+
+add
+
+panelbutton
+dir
+
+
+
+add
+
+pastefromword
+dir
+
+
+
+add
+
+pastetext
+dir
+
+
+
+add
+
+placeholder
+dir
+
+
+
+add
+
+popup
+dir
+
+
+
+add
+
+preview
+dir
+
+
+
+add
+
+print
+dir
+
+
+
+add
+
+removeformat
+dir
+
+
+
+add
+
+resize
+dir
+
+
+
+add
+
+richcombo
+dir
+
+
+
+add
+
+save
+dir
+
+
+
+add
+
+scayt
+dir
+
+
+
+add
+
+selection
+dir
+
+
+
+add
+
+showblocks
+dir
+
+
+
+add
+
+showborders
+dir
+
+
+
+add
+
+smiley
+dir
+
+
+
+add
+
+sourcearea
+dir
+
+
+
+add
+
+specialchar
+dir
+
+
+
+add
+
+styles
+dir
+
+
+
+add
+
+stylescombo
+dir
+
+
+
+add
+
+stylesheetparser
+dir
+
+
+
+add
+
+tab
+dir
+
+
+
+add
+
+table
+dir
+
+
+
+add
+
+tableresize
+dir
+
+
+
+add
+
+tabletools
+dir
+
+
+
+add
+
+templates
+dir
+
+
+
+add
+
+toolbar
+dir
+
+
+
+add
+
+uicolor
+dir
+
+
+
+add
+
+undo
+dir
+
+
+
+add
+
+wsc
+dir
+
+
+
+add
+
+wysiwygarea
+dir
+
+
+
+add
+
+xml
+dir
+
+
+
+add
+

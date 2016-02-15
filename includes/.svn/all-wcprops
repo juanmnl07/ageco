@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/ageco/!svn/ver/1/includes
+END
+cache-install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ageco/!svn/ver/1/includes/cache-install.inc
+END
+bootstrap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ageco/!svn/ver/1/includes/bootstrap.inc
+END
+date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/date.inc
+END
+stream_wrappers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ageco/!svn/ver/1/includes/stream_wrappers.inc
+END
+file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/file.inc
+END
+token.inc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ageco/!svn/ver/1/includes/token.inc
+END
+mail.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/mail.inc
+END
+update.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ageco/!svn/ver/1/includes/update.inc
+END
+ajax.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/ajax.inc
+END
+session.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/includes/session.inc
+END
+theme.maintenance.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ageco/!svn/ver/1/includes/theme.maintenance.inc
+END
+module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ageco/!svn/ver/1/includes/module.inc
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ageco/!svn/ver/1/includes/common.inc
+END
+iso.inc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/ageco/!svn/ver/1/includes/iso.inc
+END
+file.mimetypes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ageco/!svn/ver/1/includes/file.mimetypes.inc
+END
+path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/path.inc
+END
+actions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/includes/actions.inc
+END
+password.inc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ageco/!svn/ver/1/includes/password.inc
+END
+theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ageco/!svn/ver/1/includes/theme.inc
+END
+form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/form.inc
+END
+updater.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/includes/updater.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/includes/install.inc
+END
+registry.inc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ageco/!svn/ver/1/includes/registry.inc
+END
+unicode.entities.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ageco/!svn/ver/1/includes/unicode.entities.inc
+END
+authorize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ageco/!svn/ver/1/includes/authorize.inc
+END
+entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ageco/!svn/ver/1/includes/entity.inc
+END
+errors.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ageco/!svn/ver/1/includes/errors.inc
+END
+batch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ageco/!svn/ver/1/includes/batch.inc
+END
+image.inc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ageco/!svn/ver/1/includes/image.inc
+END
+language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ageco/!svn/ver/1/includes/language.inc
+END
+unicode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/includes/unicode.inc
+END
+lock.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/lock.inc
+END
+xmlrpcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/includes/xmlrpcs.inc
+END
+install.core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ageco/!svn/ver/1/includes/install.core.inc
+END
+pager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ageco/!svn/ver/1/includes/pager.inc
+END
+locale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ageco/!svn/ver/1/includes/locale.inc
+END
+tablesort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ageco/!svn/ver/1/includes/tablesort.inc
+END
+graph.inc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ageco/!svn/ver/1/includes/graph.inc
+END
+archiver.inc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ageco/!svn/ver/1/includes/archiver.inc
+END
+cache.inc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ageco/!svn/ver/1/includes/cache.inc
+END
+utility.inc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ageco/!svn/ver/1/includes/utility.inc
+END
+menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/menu.inc
+END
+batch.queue.inc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ageco/!svn/ver/1/includes/batch.queue.inc
+END
+xmlrpc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ageco/!svn/ver/1/includes/xmlrpc.inc
+END

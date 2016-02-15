@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ageco/!svn/ver/1/modules/statistics
+END
+statistics.install
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ageco/!svn/ver/1/modules/statistics/statistics.install
+END
+statistics.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ageco/!svn/ver/1/modules/statistics/statistics.pages.inc
+END
+statistics.info
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ageco/!svn/ver/1/modules/statistics/statistics.info
+END
+statistics.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ageco/!svn/ver/1/modules/statistics/statistics.tokens.inc
+END
+statistics.test
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ageco/!svn/ver/1/modules/statistics/statistics.test
+END
+statistics.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ageco/!svn/ver/1/modules/statistics/statistics.admin.inc
+END
+statistics.module
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ageco/!svn/ver/1/modules/statistics/statistics.module
+END

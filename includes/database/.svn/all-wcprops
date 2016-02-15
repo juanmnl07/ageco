@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ageco/!svn/ver/1/includes/database
+END
+select.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ageco/!svn/ver/1/includes/database/select.inc
+END
+prefetch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ageco/!svn/ver/1/includes/database/prefetch.inc
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ageco/!svn/ver/1/includes/database/schema.inc
+END
+log.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ageco/!svn/ver/1/includes/database/log.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ageco/!svn/ver/1/includes/database/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ageco/!svn/ver/1/includes/database/query.inc
+END

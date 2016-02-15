@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/ageco/!svn/ver/1/modules/syslog
+END
+syslog.module
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ageco/!svn/ver/1/modules/syslog/syslog.module
+END
+syslog.install
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ageco/!svn/ver/1/modules/syslog/syslog.install
+END
+syslog.info
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ageco/!svn/ver/1/modules/syslog/syslog.info
+END
+syslog.test
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ageco/!svn/ver/1/modules/syslog/syslog.test
+END

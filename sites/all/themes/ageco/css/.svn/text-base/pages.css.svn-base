@@ -1,0 +1,629 @@
+/**
+ * @file
+ * Page Styling
+ *
+ * Style the markup found in page.tpl.php. Also includes some styling of
+ * miscellaneous Drupal elements that appear in the $content variable, such as
+ * ul.links, .pager, .more-link, etc.
+*/
+
+
+/*
+ * Body
+*/
+*{
+    outline: none;
+}
+p{
+    font-family: Arial;
+    margin: 0 0 15px 0;
+
+}
+h2.small{
+    font-size: 18px;
+    text-transform: none;
+}
+body {
+    background-image: url(../images/fondo-header.jpg);
+    background-repeat: repeat-x;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px !important;
+}
+body.toolbar {
+    background-position: 0 30px;
+    margin-top: 30px;
+}
+
+#page-wrapper {
+}
+
+#page {
+}
+
+/*
+ * The skip-link link will be completely hidden until a user tabs to the link.
+ * See the element-focusable rule in system.base.css.
+*/
+#skip-link a,
+#skip-link a:visited {
+    display: block;
+    width: 100%;
+    padding: 2px 0 3px 0;
+    text-align: center;
+    background-color: #666;
+    color: #fff;
+}
+
+/*
+ * Header
+*/
+#header {
+    height: 85px;
+}
+
+#header .section {
+}
+
+#logo /* Wrapping link for logo */ {
+    float: left; /* LTR */
+    margin: 0;
+    padding: 0;
+}
+
+#logo img {
+    vertical-align: bottom;
+}
+.sidebar-dos-columnas{}
+.content-dos-columnas{}
+#name-and-slogan /* Wrapper for website name and slogan */ {
+    float: left;
+}
+
+h1#site-name,
+div#site-name /* The name of the website */ {
+    margin: 0;
+    font-size: 2em;
+    line-height: 1.5em;
+}
+
+#site-name a:link,
+#site-name a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+#site-name a:hover,
+#site-name a:focus {
+    text-decoration: underline;
+}
+
+#site-slogan /* The slogan (or tagline) of a website */ {
+}
+
+.region-header /* Wrapper for any blocks placed in the header region */ {
+    float: right;
+}
+.region-header h2{
+    display: none; 
+}
+#header-links-and-phone{
+    color: #00549E;
+    font-size: 17px;
+    text-align: right;
+}
+#header-links-and-phone img{
+    vertical-align: middle;
+}
+#header-links-and-phone .espacio {
+    display: block;
+    margin: 12px 0;
+}
+/*
+ * Main (container for everything else)
+*/
+#main-wrapper {
+}
+
+#main {
+}
+
+/*
+ * Content
+*/
+#content {
+}
+
+#content .section {
+}
+
+.region-highlighted {
+}
+
+.breadcrumb /* The path to the current page in the form of a list of links */ {
+    padding-bottom: 0; /* Undo system.css */
+}
+
+h1.title, /* The title of the page */
+h2.node-title, /* Title of a piece of content when it is given in a list of content */
+h2.block-title, /* Block title */
+h2.title, /* Comment section heading */
+h2.comment-form, /* Comment form heading */
+h3.title /* Comment title */ {
+    margin: 0;
+}
+
+tr.even /* Some tables have rows marked even or odd. */ {
+    /* background-color: #eee; */ /* Drupal core uses a #eee background */
+}
+
+tr.odd {
+    /* background-color: #eee; */ /* Drupal core uses a #eee background */
+}
+
+div.messages /* Important messages (status, warning, and error) for the user. See also the declarations in messages.css. */ {
+    margin: 1.5em 0; /* Drupal core uses "6px 0" margin */
+}
+
+div.messages ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+div.status /* Normal priority messages */ {
+}
+
+div.warning,
+tr.warning /* Medium priority messages */ {
+    /* border: 1px solid #f0c020; */ /* Drupal core uses: 1px solid #f0c020 */
+}
+
+div.error,
+tr.error /* High priority messages. See also the .error declaration below. */ {
+}
+
+.error /* Errors that are separate from div.messages status messages. */ {
+    /* color: #e55; */ /* Drupal core uses a #e55 background */
+}
+
+.warning /* Warnings that are separate from div.messages status messages. */ {
+    /* color: #e09010; */ /* Drupal core uses a #e09010 background */
+}
+
+div.tabs /* See also the tabs.css file. */ {
+}
+
+.region-help /* Help text on a page */ {
+}
+
+.more-help-link /* Link to more help */ {
+}
+
+.region-content /* Wrapper for the actual page content */ {
+}
+
+ul.links /* List of links */ {
+}
+
+ul.links.inline {
+    display: block; /* Let the links be inline, but the container be a block. */
+}
+
+ul.links li {
+    padding: 0 1em 0 0; /* LTR */
+}
+
+.item-list .pager /* A list of page numbers when more than 1 page of content is available */ {
+    padding: 0;
+}
+
+.item-list .pager li /* Each page number in the pager list */ {
+    padding: 0 0.5em;
+}
+
+.feed-icon /* The link to the RSS or Atom feed for the current list of content */ {
+}
+
+.more-link /* Aggregator, blog, and forum more link */ {
+}
+
+/*
+ * First sidebar (on left in LTR languages, on right in RTL)
+ *
+ * Remember to NOT add padding or margin to your .region-sidebar-first
+ * (see the layout.css file.)
+*/
+.region-sidebar-first {
+}
+
+.region-sidebar-first .section {
+}
+
+/*
+ * Second sidebar (on right in LTR languages, on left in RTL)
+ *
+ * Remember to NOT add padding or margin to your .region-sidebar-second
+ * (see the layout.css file.)
+*/
+.region-sidebar-second {
+}
+
+.region-sidebar-second .section {
+}
+
+/*
+ * Footer
+*/
+.region-footer {
+}
+
+/*
+ * Page bottom
+*/
+.region-bottom /* Wrapper for any blocks placed in the page bottom region */ {
+}
+.title-wrapper, .content-wrapper{
+    padding: 0 10px;
+    height: 70px;
+}
+.title-wrapper .breadcrumb{
+    float: right;
+    padding-top: 38px;
+}
+.title-wrapper .breadcrumb, .title-wrapper .breadcrumb a{
+    color: #FFFFFF;
+    font-size: 12px;
+    text-decoration: none;
+}
+.title-wrapper .breadcrumb a:hover{
+    text-decoration: underline;
+}
+.title-wrapper{
+    margin-bottom: 20px;
+}
+.title-wrapper h1{
+    color: #FFFFFF;
+    float: left;
+    font-size: 28px;
+    padding-top: 18px;
+    text-transform: uppercase;
+}
+.content-dos-columnas{
+    max-width: 625px;
+    padding-right: 45px;
+}
+.sidebar-dos-columnas h2.pane-title{
+    color: #00549E;
+    border-bottom: 1px solid #00549E;
+    letter-spacing: -1px;
+    font-size: 14px;
+    margin: 0;
+    padding: 6px 0;
+    text-transform: uppercase;
+}
+.sidebar-dos-columnas .view-menu-interno .view-content .views-row a{
+    display: block;
+    color: #939598;
+    font-size: 15px;
+    border-bottom: 0.25px solid #414042;
+    padding: 10px 0;
+    text-decoration: none;         
+}
+.sidebar-dos-columnas .view-menu-interno .view-content .views-row a:hover, .sidebar-dos-columnas .view-menu-interno .view-content .views-row a.active{
+    color: #414042;
+}
+/******************************************************************
+* estilos quemados para tablas
+*******************************************************************/
+table{
+    font-size: 12px;
+    color: #808285;
+    margin: 0;
+}
+table p{
+    font-size: 12px;
+    margin: 0;
+    color: #808285;
+}
+table tr td a{
+    color: #00549E;
+    text-decoration: underline;
+}
+table tr td{
+    width: 50%;
+    line-height: 25px;
+}
+h4{
+    color: #00549E;
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+table tr td{
+    vertical-align: top;
+}
+/******************************************************************
+* estilos quemados para cursos-y-programas
+*******************************************************************/
+.cursos-y-programas .title-wrapper{
+    background-color: #1CBECA;
+}
+.cursos-y-programas h2{
+    color: #1CBECA;
+}
+.cursos-y-programas .boton{
+    background-image: url("../images/fondo-boton-cursos.jpg");
+}
+.cursos-y-programas li{
+    list-style-image: url("../images/vinneta-cursos.jpg");
+    padding-bottom: 6px;
+    color: #58595B;
+    text-decoration: underline;
+    font-size: 18px;
+}
+/******************************************************************
+* estilos quemados para cursos-y-programas
+*******************************************************************/
+.noticias-actividades .title-wrapper{
+    background-color: #54B948;
+}
+.noticias-actividades h2{
+    color: #54B948;
+}
+/******************************************************************
+* estilos quemados para ageco-y-las-personas
+*******************************************************************/
+.ageco-y-las-personas .title-wrapper{
+    background-color: #00502F;
+}
+.ageco-y-las-personas h2{
+    color: #00502F;
+}
+.ageco-y-las-personas h1#page-title{
+    font-size: 23px;
+    padding-top: 26px;
+    text-transform: none;
+}
+.ageco-y-las-personas .boton{
+    background-image: url("../images/fondo-boton-agecopersonas.jpg");
+}
+.ageco-y-las-personas li{
+    list-style-image: url("../images/vinneta-ageco-y-las-personas.jpg");
+}
+.ageco-y-las-personas .ui-state-active .ui-icon, .ageco-y-las-personas .ui-state-default .ui-icon{
+    background-image: url("../images/flecha-acordeon-ageco-y-las-personas.jpg");
+}
+.ageco-y-las-personas h3.ui-accordion-header{
+    border-bottom: 1px solid #00502F;
+}
+.ageco-y-las-personas .ui-accordion-content{
+    border-bottom: 1px solid #00502F;
+}
+/******************************************************************
+* estilos quemados para derechos humanos
+*******************************************************************/
+.derechos-humanos .title-wrapper{
+    background-color: #FBB034;
+}
+.derechos-humanos h2{
+    color: #FBB034;
+}
+.derechos-humanos .boton{
+    background-image: url("../images/fondo-boton-derechos.jpg");
+}
+.derechos-humanos li{
+    list-style-image: url("../images/vinneta-derechos.jpg");
+}
+.derechos-humanos .ui-state-active .ui-icon, .derechos-humanos .ui-state-default .ui-icon{
+    background-image: url("../images/flecha-acordeon-derechos.jpg");
+}
+.derechos-humanos h3.ui-accordion-header{
+    border-bottom: 1px solid #FBB034;
+}
+.derechos-humanos .ui-accordion-content{
+    border-bottom: 1px solid #FBB034;
+}
+/******************************************************************
+* estilos quemados para contactenos
+*******************************************************************/
+.contact .title-wrapper{
+    background-color: #EE3124;
+}
+.contact h2{
+    color: #EE3124;
+}
+.sidebar-dos-columnas .contact-info h2.pane-title {
+    color: #EE3124;
+    border-color: #EE3124;
+    letter-spacing: -1px;
+}
+.sidebar-dos-columnas .contact-info p {
+    margin: 8px 0;
+}
+.sidebar-dos-columnas .contact-info p a {
+    color: #808285;
+    text-decoration: none;
+}
+.sidebar-dos-columnas .contact-info p a:hover {
+    text-decoration: underline;
+}
+.sidebar-dos-columnas .contact-info p strong {
+    color: #58595B;
+}
+.contact-form label{
+    display: block;
+    float: left;
+    text-align: right;
+    width: 120px;
+    padding-right: 10px;
+    color: #58595B;
+}
+.contact-form input[type="text"]{
+    border: 1px solid #939598;
+    height: 36px;
+    width: 480px;
+}
+.contact-form .form-textarea-wrapper textarea{
+    border: 1px solid #939598;
+    width: 480px;
+}
+.contact-form .form-textarea-wrapper{
+    display: block;
+    float: left;
+    width: 480px;
+}
+.contact-form  .form-type-checkbox{
+    display: none;
+}
+.contact-form .form-actions .form-submit{
+    background-image: url("../images/fondo-boton-contact.jpg");
+    border: medium none;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    float: right;
+    font-family: century gothic;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 0 10px;
+    height: 33px;
+    margin-right: 7px;
+    margin-top: 25px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 186px;
+}
+.boton{
+    border: medium none;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    font-family: century gothic;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 7px 10px;
+    display: block;
+    float: left;
+    text-decoration: none;
+    margin-right: 7px;
+    margin-top: 25px;
+    text-align: left;
+    text-transform: uppercase;
+    padding-right: 25px;
+}
+.boton.formulario{
+    float: none;
+    font-size: 12px;
+    margin: 10px 0 20px;
+    padding: 2px 10px;
+    width: 160px;
+}
+/******************************************************************
+* estilos quemados para acordeones
+*******************************************************************/
+.ui-state-active .ui-icon, .ui-state-default .ui-icon{
+    background-position: center center;
+    float: right;
+    height: 20px;
+}
+.ui-corner-bottom, .ui-corner-top, .ui-corner-all{
+    border: none;
+    background: none;
+}
+.ui-widget *:active, .ui-accordion-header{
+    border: none;
+    background: none;
+}
+h3.ui-accordion-header{
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-radius:0;
+}
+.ui-accordion-content{
+    padding-bottom: 20px;
+    margin-bottom: 8px;
+    border-radius:0;
+}
+.ui-accordion-content li p{
+    margin: 0 0 5px 0;
+}
+
+/***************************************************************
+* Fondo thumb para las imagenes
+***************************************************************/
+.view-noticias .views-row{
+    clear: both;
+}
+.view-noticias .views-row img{
+    background-image: url("../images/fondo-thumb.jpg");
+    background-repeat: no-repeat;
+    padding: 7px 9px;
+    margin-bottom: 30px;
+}
+.view-noticias .views-row .views-field-field-imagen{
+    float: left;
+}
+.view-noticias .views-row .views-field-nothing{
+    border: 1px solid #BEBEC0;
+    border-radius: 5px 5px 5px 5px;
+    float: right;
+    padding: 10px;
+    width: 355px;
+    position: relative;
+    margin-bottom: 30px;
+}
+.view-noticias .views-row .views-field-nothing .title a, .view-noticias .views-row .views-field-nothing .title{
+    color: #54B948;
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+    padding-bottom: 10px;
+    display: block;
+}
+.ageco-y-las-personas .view-noticias .views-row .views-field-nothing .title{
+    color: #00502F;
+}
+.view-noticias .views-row .views-field-nothing .body{
+    font-size: 15px;
+    color: #808285;
+    text-align: justify;
+    font-family: "Arial";
+    line-height:20px;
+    padding-bottom: 10px;
+    display: block;
+}
+.view-noticias .views-row .views-field-nothing .flecha{
+    background-image: url("../images/flecha-view.jpg");
+    display: block;
+    height: 38px;
+    left: -22px;
+    position: absolute;
+    top: 23px;
+    width: 22px;
+}
+.view-noticias .views-row .views-field-nothing .view_node a{
+    color: #414042;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.item-list .pager{
+    border-top: 1px solid #BEBEC0;
+    padding-top: 25px;
+    text-align: right; 
+}
+.item-list .pager li a, .item-list .pager li{
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: bold;
+}
+.item-list .pager li{
+    padding: 5px 12px;;
+    background-image: url("../images/fondo-pag.jpg");
+}
+.ageco-y-las-personas .item-list .pager li{
+    background-image: url("../images/fondo-pag-ageco-personas.jpg");
+}
+.ageco-y-las-personas .view-noticias .views-row .views-field-nothing .view_node a{
+    text-transform: none;
+}

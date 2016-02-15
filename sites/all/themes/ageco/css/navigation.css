@@ -1,0 +1,136 @@
+/**
+ * @file
+ * Navigation Styling
+*/
+
+
+/*
+ * The active item in a Drupal menu
+*/
+li a.active {
+    color: #000;
+}
+
+/*
+ * Navigation bar
+*/
+#navigation {
+    height: 44px;
+    line-height: 20px;
+    background-color:#50B948;
+    /* overflow: hidden; /* Sometimes you want to prevent overlapping with main div. */
+}
+
+#navigation ul.links, /* Main menu and secondary menu links */
+#navigation .content ul /* Menu block links */ {
+    display: table;
+    height: 44px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+
+#navigation ul.links li, /* A simple method to get navigation links to appear in one line. */
+#navigation .content li {
+    display: table-cell;
+    padding: 0 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+#navigation ul.links li a{
+    color: #FFFFFF;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
+#navigation ul.links li a:hover{
+    text-decoration: underline;
+    color: #EBA83E;
+}
+
+.menu-379 {
+    width: 151px;
+}
+.menu-381 {
+    width: 137px;
+}
+.menu-382 {
+    width: 113px;
+}
+.region-navigation {
+}
+
+/*
+ * Main menu and Secondary menu links
+*/
+#main-menu {
+}
+
+#secondary-menu {
+    float: right;
+}
+
+/*
+ * Menu blocks
+*/
+.block-menu {
+}
+
+/*
+ * "Menu block" blocks
+ *
+ * Drupal core has limited ways in which it can display its menus. To get around
+ * these limitations, see http://drupal.org/project/menu_block
+*/
+.block-menu-block {
+}
+.menu-block-wrapper ul li, .menu-block-wrapper ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+.menu-block-wrapper ul li {
+    border-bottom: 1px solid #414042;
+    line-height: 20px;
+    padding: 10px 0;
+}
+.menu-block-wrapper ul li a {
+    color: #939598;
+    text-decoration: none;
+}
+.menu-block-wrapper ul li.active a {
+    color: #414042;
+}
+.menu-block-wrapper ul ul {
+    padding-left: 15px;
+    margin-left: 15px;
+}
+.menu-block-wrapper ul ul li {
+    border: none;
+    padding: 5px;
+    list-style: circle;
+    border-bottom: none;
+}
+
+div.panels-flexible-row-contrataciones-main-row-left div.panels-flexible-region div.inside div.panel-pane{
+    margin: 0;
+}
+div.panels-flexible-row-contrataciones-main-row-middle div.panels-flexible-region div.inside{
+     padding-left: 25px;
+}
+div.panels-flexible-row-contrataciones-main-row-middle div.panels-flexible-region div.inside div.panel-pane div.pane-content div.field div.field-items div.field-item table.sticky-enabled{
+    margin-bottom: 15px;
+    width: 100%;
+}
+.view-publicaciones div.enlace a{
+    color: #00502F;
+    font-family: "Century Gothic";
+    font-weight: bold;
+    font-size: 13px;
+    text-decoration: none;
+}
+div.panels-flexible-row-contrataciones-main-row-middle div.panels-flexible-region div.inside div.panel-pane div.pane-content div.field div.field-items div.field-item table, div.panels-flexible-row-contrataciones-main-row-middle div.panels-flexible-region div.inside div.panel-pane div.pane-content div.field div.field-items div.field-item table tr, div.panels-flexible-row-contrataciones-main-row-middle div.panels-flexible-region div.inside div.panel-pane div.pane-content div.field div.field-items div.field-item table td{
+    border-color: #00502F;
+}

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ageco/!svn/ver/1/modules/field/modules/number
+END
+number.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ageco/!svn/ver/1/modules/field/modules/number/number.info
+END
+number.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ageco/!svn/ver/1/modules/field/modules/number/number.test
+END
+number.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ageco/!svn/ver/1/modules/field/modules/number/number.module
+END
+number.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ageco/!svn/ver/1/modules/field/modules/number/number.install
+END

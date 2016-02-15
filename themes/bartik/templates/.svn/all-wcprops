@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ageco/!svn/ver/1/themes/bartik/templates
+END
+maintenance-page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ageco/!svn/ver/1/themes/bartik/templates/maintenance-page.tpl.php
+END
+page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ageco/!svn/ver/1/themes/bartik/templates/page.tpl.php
+END
+comment-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ageco/!svn/ver/1/themes/bartik/templates/comment-wrapper.tpl.php
+END
+comment.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ageco/!svn/ver/1/themes/bartik/templates/comment.tpl.php
+END
+node.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ageco/!svn/ver/1/themes/bartik/templates/node.tpl.php
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade
+END
+upgrade.translatable.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.translatable.test
+END
+drupal-6.locale.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.locale.database.php
+END
+drupal-6.filled.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.filled.database.php
+END
+upgrade.taxonomy.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.taxonomy.test
+END
+upgrade.user.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.user.test
+END
+drupal-7.filled.minimal.database.php.gz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-7.filled.minimal.database.php.gz
+END
+drupal-6.menu.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.menu.database.php
+END
+drupal-7.filled.standard_all.database.php.gz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-7.filled.standard_all.database.php.gz
+END
+drupal-6.user-no-password-token.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.user-no-password-token.database.php
+END
+upgrade.upload.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.upload.test
+END
+upgrade.filter.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.filter.test
+END
+upgrade.node.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.node.test
+END
+drupal-6.bare.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.bare.database.php
+END
+upgrade.forum.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.forum.test
+END
+drupal-6.translatable.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.translatable.database.php
+END
+drupal-7.bare.minimal.database.php.gz
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-7.bare.minimal.database.php.gz
+END
+drupal-7.bare.standard_all.database.php.gz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-7.bare.standard_all.database.php.gz
+END
+upgrade.locale.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.locale.test
+END
+upgrade.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.test
+END
+upgrade.comment.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.comment.test
+END
+drupal-6.upload.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.upload.database.php
+END
+drupal-6.comments.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.comments.database.php
+END
+upgrade.menu.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.menu.test
+END
+drupal-6.forum.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.forum.database.php
+END
+upgrade.poll.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/upgrade.poll.test
+END
+drupal-6.user-password-token.database.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ageco/!svn/ver/1/modules/simpletest/tests/upgrade/drupal-6.user-password-token.database.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form
+END
+node_form_log.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_log.inc
+END
+node_form_title.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_title.inc
+END
+node_form_author.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_author.inc
+END
+node_form_comment.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_comment.inc
+END
+icon_node_form.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/icon_node_form.png
+END
+node_form_menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_menu.inc
+END
+node_form_publishing.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_publishing.inc
+END
+node_form_book.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_book.inc
+END
+node_form_attachments.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_attachments.inc
+END
+node_form_path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_path.inc
+END
+node_form_buttons.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ageco/!svn/ver/1/sites/all/modules/contrib/ctools/plugins/content_types/node_form/node_form_buttons.inc
+END
